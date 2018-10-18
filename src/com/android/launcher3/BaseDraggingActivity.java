@@ -17,6 +17,7 @@
 package com.android.launcher3;
 
 import android.app.ActivityOptions;
+import android.app.UiModeManager;
 import android.content.ActivityNotFoundException;
 import android.content.ContentResolver;
 import android.content.Context;
