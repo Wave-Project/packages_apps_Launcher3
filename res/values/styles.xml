@@ -222,6 +222,7 @@
         <item name="keyShadowColor">?attr/workspaceKeyShadowColor</item>
         <item name="keyShadowBlur">1dp</item>
         <item name="keyShadowOffset">.5dp</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
     </style>
 
     <!-- Theme for the popup container -->
