@@ -33,8 +33,8 @@
         launcher:y="1"
         launcher:spanX="3"
         launcher:spanY="1"
-        launcher:packageName="wtf.jyotiraditya.wavewidget"
-        launcher:className="wtf.jyotiraditya.wavewidget.WaveWidgetProvider" />
+        launcher:packageName="me.waveproject.widget"
+        launcher:className="me.waveproject.widget.WaveWidgetProvider" />
 
     <!-- Hotseat (We use the screen as the position of the item in the hotseat) -->
     <!-- Dialer, Messaging, [Maps/Music/Settings], Browser, Camera -->
